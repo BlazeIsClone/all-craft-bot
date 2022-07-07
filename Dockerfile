@@ -6,4 +6,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD deno run  --allow-all --watch main.ts
+CMD deno run  --allow-all --watch mod.ts
